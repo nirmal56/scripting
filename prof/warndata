@@ -1,0 +1,53 @@
+Jul  8 09:23:25 nirmal-VirtualBox /usr/lib/gdm3/gdm-x-session[1319]: #011(WW) warning, (EE) error, (NI) not implemented, (??) unknown.
+Jul  8 09:23:27 nirmal-VirtualBox gnome-session[1544]: libEGL warning: DRI2: failed to authenticate
+Jul  8 09:23:27 nirmal-VirtualBox gnome-session[1557]: gnome-session-binary[1557]: WARNING: Could not parse desktop file nautilus-autostart.desktop or it references a not found TryExec binary
+Jul  8 09:23:27 nirmal-VirtualBox gnome-session-binary[1557]: WARNING: Could not parse desktop file nautilus-autostart.desktop or it references a not found TryExec binary
+Jul  8 09:23:27 nirmal-VirtualBox gnome-session[1557]: gnome-session-binary[1557]: WARNING: Could not parse desktop file gnome-software-service.desktop or it references a not found TryExec binary
+Jul  8 09:23:27 nirmal-VirtualBox gnome-session-binary[1557]: WARNING: Could not parse desktop file gnome-software-service.desktop or it references a not found TryExec binary
+Jul  8 09:23:35 nirmal-VirtualBox gnome-shell[1571]: Window manager warning: Overwriting existing binding of keysym 31 with keysym 31 (keycode a).
+Jul  8 09:23:35 nirmal-VirtualBox gnome-shell[1571]: Window manager warning: Overwriting existing binding of keysym 32 with keysym 32 (keycode b).
+Jul  8 09:23:35 nirmal-VirtualBox gnome-shell[1571]: Window manager warning: Overwriting existing binding of keysym 33 with keysym 33 (keycode c).
+Jul  8 09:23:35 nirmal-VirtualBox gnome-shell[1571]: Window manager warning: Overwriting existing binding of keysym 38 with keysym 38 (keycode 11).
+Jul  8 09:23:35 nirmal-VirtualBox gnome-shell[1571]: Window manager warning: Overwriting existing binding of keysym 39 with keysym 39 (keycode 12).
+Jul  8 09:23:35 nirmal-VirtualBox gnome-shell[1571]: Window manager warning: Overwriting existing binding of keysym 34 with keysym 34 (keycode d).
+Jul  8 09:23:35 nirmal-VirtualBox gnome-shell[1571]: Window manager warning: Overwriting existing binding of keysym 35 with keysym 35 (keycode e).
+Jul  8 09:23:35 nirmal-VirtualBox gnome-shell[1571]: Window manager warning: Overwriting existing binding of keysym 36 with keysym 36 (keycode f).
+Jul  8 09:23:35 nirmal-VirtualBox gnome-shell[1571]: Window manager warning: Overwriting existing binding of keysym 37 with keysym 37 (keycode 10).
+Jul  8 09:23:48 nirmal-VirtualBox gnome-shell[1571]: Window manager warning: Overwriting existing binding of keysym 31 with keysym 31 (keycode a).
+Jul  8 09:23:48 nirmal-VirtualBox gnome-shell[1571]: Window manager warning: Overwriting existing binding of keysym 32 with keysym 32 (keycode b).
+Jul  8 09:23:48 nirmal-VirtualBox gnome-shell[1571]: Window manager warning: Overwriting existing binding of keysym 33 with keysym 33 (keycode c).
+Jul  8 09:23:48 nirmal-VirtualBox gnome-shell[1571]: Window manager warning: Overwriting existing binding of keysym 38 with keysym 38 (keycode 11).
+Jul  8 09:23:48 nirmal-VirtualBox gnome-shell[1571]: Window manager warning: Overwriting existing binding of keysym 39 with keysym 39 (keycode 12).
+Jul  8 09:23:48 nirmal-VirtualBox gnome-shell[1571]: Window manager warning: Overwriting existing binding of keysym 34 with keysym 34 (keycode d).
+Jul  8 09:23:48 nirmal-VirtualBox gnome-shell[1571]: Window manager warning: Overwriting existing binding of keysym 35 with keysym 35 (keycode e).
+Jul  8 09:23:48 nirmal-VirtualBox gnome-shell[1571]: Window manager warning: Overwriting existing binding of keysym 36 with keysym 36 (keycode f).
+Jul  8 09:23:48 nirmal-VirtualBox gnome-shell[1571]: Window manager warning: Overwriting existing binding of keysym 37 with keysym 37 (keycode 10).
+Jul  8 10:55:59 nirmal-VirtualBox gnome-shell[1571]: JS WARNING: [resource:///org/gnome/shell/gdm/util.js 285]: reference to undefined property "_currentMessageExtraInterval"
+Jul  8 10:56:16 nirmal-VirtualBox gnome-shell[1571]: Window manager warning: Overwriting existing binding of keysym 31 with keysym 31 (keycode a).
+Jul  8 10:56:16 nirmal-VirtualBox gnome-shell[1571]: Window manager warning: Overwriting existing binding of keysym 32 with keysym 32 (keycode b).
+Jul  8 10:56:16 nirmal-VirtualBox gnome-shell[1571]: Window manager warning: Overwriting existing binding of keysym 33 with keysym 33 (keycode c).
+Jul  8 10:56:16 nirmal-VirtualBox gnome-shell[1571]: Window manager warning: Overwriting existing binding of keysym 34 with keysym 34 (keycode d).
+Jul  8 10:56:16 nirmal-VirtualBox gnome-shell[1571]: Window manager warning: Overwriting existing binding of keysym 35 with keysym 35 (keycode e).
+Jul  8 10:56:16 nirmal-VirtualBox gnome-shell[1571]: Window manager warning: Overwriting existing binding of keysym 36 with keysym 36 (keycode f).
+Jul  8 10:56:16 nirmal-VirtualBox gnome-shell[1571]: Window manager warning: Overwriting existing binding of keysym 38 with keysym 38 (keycode 11).
+Jul  8 10:56:16 nirmal-VirtualBox gnome-shell[1571]: Window manager warning: Overwriting existing binding of keysym 39 with keysym 39 (keycode 12).
+Jul  8 10:56:16 nirmal-VirtualBox gnome-shell[1571]: Window manager warning: Overwriting existing binding of keysym 37 with keysym 37 (keycode 10).
+Jul  8 11:45:17 nirmal-VirtualBox gnome-shell[1571]: Window manager warning: Overwriting existing binding of keysym 31 with keysym 31 (keycode a).
+Jul  8 11:45:17 nirmal-VirtualBox gnome-shell[1571]: Window manager warning: Overwriting existing binding of keysym 32 with keysym 32 (keycode b).
+Jul  8 11:45:17 nirmal-VirtualBox gnome-shell[1571]: Window manager warning: Overwriting existing binding of keysym 33 with keysym 33 (keycode c).
+Jul  8 11:45:17 nirmal-VirtualBox gnome-shell[1571]: Window manager warning: Overwriting existing binding of keysym 34 with keysym 34 (keycode d).
+Jul  8 11:45:17 nirmal-VirtualBox gnome-shell[1571]: Window manager warning: Overwriting existing binding of keysym 35 with keysym 35 (keycode e).
+Jul  8 11:45:17 nirmal-VirtualBox gnome-shell[1571]: Window manager warning: Overwriting existing binding of keysym 38 with keysym 38 (keycode 11).
+Jul  8 11:45:17 nirmal-VirtualBox gnome-shell[1571]: Window manager warning: Overwriting existing binding of keysym 39 with keysym 39 (keycode 12).
+Jul  8 11:45:17 nirmal-VirtualBox gnome-shell[1571]: Window manager warning: Overwriting existing binding of keysym 36 with keysym 36 (keycode f).
+Jul  8 11:45:17 nirmal-VirtualBox gnome-shell[1571]: Window manager warning: Overwriting existing binding of keysym 37 with keysym 37 (keycode 10).
+Jul  8 14:37:30 nirmal-VirtualBox gnome-shell[1571]: Window manager warning: Overwriting existing binding of keysym 34 with keysym 34 (keycode d).
+Jul  8 14:37:30 nirmal-VirtualBox gnome-shell[1571]: Window manager warning: Overwriting existing binding of keysym 31 with keysym 31 (keycode a).
+Jul  8 14:37:30 nirmal-VirtualBox gnome-shell[1571]: Window manager warning: Overwriting existing binding of keysym 32 with keysym 32 (keycode b).
+Jul  8 14:37:30 nirmal-VirtualBox gnome-shell[1571]: Window manager warning: Overwriting existing binding of keysym 33 with keysym 33 (keycode c).
+Jul  8 14:37:30 nirmal-VirtualBox gnome-shell[1571]: Window manager warning: Overwriting existing binding of keysym 35 with keysym 35 (keycode e).
+Jul  8 14:37:30 nirmal-VirtualBox gnome-shell[1571]: Window manager warning: Overwriting existing binding of keysym 36 with keysym 36 (keycode f).
+Jul  8 14:37:30 nirmal-VirtualBox gnome-shell[1571]: Window manager warning: Overwriting existing binding of keysym 37 with keysym 37 (keycode 10).
+Jul  8 14:37:30 nirmal-VirtualBox gnome-shell[1571]: Window manager warning: Overwriting existing binding of keysym 38 with keysym 38 (keycode 11).
+Jul  8 14:37:30 nirmal-VirtualBox gnome-shell[1571]: Window manager warning: Overwriting existing binding of keysym 39 with keysym 39 (keycode 12).
+Binary file /home/nirmal/user/scripting/prof/syslog matches

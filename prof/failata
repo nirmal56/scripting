@@ -1,0 +1,91 @@
+Jul  8 09:23:18 nirmal-VirtualBox kernel: [   11.998862] vboxguest: module verification failed: signature and/or required key missing - tainting kernel
+Jul  8 09:23:19 nirmal-VirtualBox kernel: [   12.774832] [drm:vmw_host_log [vmwgfx]] *ERROR* Failed to send host log message.
+Jul  8 09:23:19 nirmal-VirtualBox kernel: [   12.774839] [drm:vmw_host_log [vmwgfx]] *ERROR* Failed to send host log message.
+Jul  8 09:23:26 nirmal-VirtualBox /usr/lib/gdm3/gdm-x-session[1319]: xf86EnableIOPorts: failed to set IOPL for I/O (Operation not permitted)
+Jul  8 09:23:26 nirmal-VirtualBox /usr/lib/gdm3/gdm-x-session[1319]: (WW) vmware(0): Failed to initialize Gallium3D Xa. No render acceleration available.
+Jul  8 09:23:27 nirmal-VirtualBox gnome-session[1544]: libEGL warning: DRI2: failed to authenticate
+Jul  8 09:23:31 nirmal-VirtualBox colord[1785]: failed to get edid data: EDID length is too small
+Jul  8 09:23:32 nirmal-VirtualBox gsd-media-keys[1712]: Failed to grab accelerator for keybinding settings:playback-repeat
+Jul  8 09:23:32 nirmal-VirtualBox gsd-media-keys[1712]: Failed to grab accelerator for keybinding settings:hibernate
+Jul  8 09:23:32 nirmal-VirtualBox gsd-media-keys[1712]: Failed to grab accelerator for keybinding settings:rfkill
+Jul  8 09:23:32 nirmal-VirtualBox gsd-media-keys[1712]: Failed to grab accelerator for keybinding settings:playback-random
+Jul  8 09:23:32 nirmal-VirtualBox gsd-color[1699]: failed to get edid: unable to get EDID for output
+Jul  8 09:23:32 nirmal-VirtualBox colord[1785]: failed to get session [pid 1699]: No data available
+Jul  8 09:23:37 nirmal-VirtualBox fwupd[1999]: 03:53:37:0580 FuPluginTpm          failed to load eventlog: Failed to open file "/sys/kernel/security/tpm0/binary_bios_measurements": No such file or directory
+Jul  8 09:23:37 nirmal-VirtualBox fwupd[1999]: 03:53:37:0663 FuEngine             failed to record HSI attributes: failed to get historical attr: json-glib version too old
+Jul  8 09:23:50 nirmal-VirtualBox pulseaudio[1305]: GetManagedObjects() failed: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+Jul  8 09:24:18 nirmal-VirtualBox snap-store[1872]: not handling error failed for action refresh: E: Failed to fetch http://in.archive.ubuntu.com/ubuntu/dists/focal/InRelease  #012E: Failed to fetch http://in.archive.ubuntu.com/ubuntu/dists/focal-updates/InRelease  #012E: Failed to fetch http://in.archive.ubuntu.com/ubuntu/dists/focal-backports/InRelease  #012E: Failed to fetch http://security.ubuntu.com/ubuntu/dists/focal-security/InRelease  #012E: Failed to fetch http://security.ubuntu.com/ubuntu/dists/xenial-security/InRelease  #012E: Failed to fetch http://ppa.launchpad.net/deadsnakes/ppa/ubuntu/dists/focal/InRelease  #012E: Failed to fetch https://deb.nodesource.com/node_14.x/dists/bionic/InRelease  #012E: Some index files failed to download. They have been ignored, or old ones used instead.
+Jul  8 09:59:29 nirmal-VirtualBox gnome-shell[1571]: cr_parser_new_from_buf: assertion 'a_buf && a_len' failed
+Jul  8 09:59:29 nirmal-VirtualBox gnome-shell[1571]: cr_declaration_parse_list_from_buf: assertion 'parser' failed
+Jul  8 09:59:29 nirmal-VirtualBox gnome-shell[1571]: cr_parser_new_from_buf: assertion 'a_buf && a_len' failed
+Jul  8 09:59:29 nirmal-VirtualBox gnome-shell[1571]: cr_declaration_parse_list_from_buf: assertion 'parser' failed
+Jul  8 09:59:29 nirmal-VirtualBox gnome-shell[1571]: cr_parser_new_from_buf: assertion 'a_buf && a_len' failed
+Jul  8 09:59:29 nirmal-VirtualBox gnome-shell[1571]: cr_declaration_parse_list_from_buf: assertion 'parser' failed
+Jul  8 09:59:30 nirmal-VirtualBox gnome-shell[1571]: g_dbus_connection_emit_signal: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+Jul  8 09:59:30 nirmal-VirtualBox gnome-shell[1571]: cr_parser_new_from_buf: assertion 'a_buf && a_len' failed
+Jul  8 09:59:30 nirmal-VirtualBox gnome-shell[1571]: cr_declaration_parse_list_from_buf: assertion 'parser' failed
+Jul  8 10:56:15 nirmal-VirtualBox gnome-shell[1571]: cr_parser_new_from_buf: assertion 'a_buf && a_len' failed
+Jul  8 10:56:15 nirmal-VirtualBox gnome-shell[1571]: cr_declaration_parse_list_from_buf: assertion 'parser' failed
+Jul  8 10:56:15 nirmal-VirtualBox gnome-shell[1571]: cr_parser_new_from_buf: assertion 'a_buf && a_len' failed
+Jul  8 10:56:15 nirmal-VirtualBox gnome-shell[1571]: cr_declaration_parse_list_from_buf: assertion 'parser' failed
+Jul  8 10:56:15 nirmal-VirtualBox gnome-shell[1571]: cr_parser_new_from_buf: assertion 'a_buf && a_len' failed
+Jul  8 10:56:15 nirmal-VirtualBox gnome-shell[1571]: cr_declaration_parse_list_from_buf: assertion 'parser' failed
+Jul  8 10:56:16 nirmal-VirtualBox org.gnome.Nautilus[5280]: Failed to register: Unable to acquire bus name 'org.gnome.Nautilus'
+Jul  8 10:56:16 nirmal-VirtualBox gnome-shell[1571]: cr_parser_new_from_buf: assertion 'a_buf && a_len' failed
+Jul  8 10:56:16 nirmal-VirtualBox gnome-shell[1571]: cr_declaration_parse_list_from_buf: assertion 'parser' failed
+Jul  8 11:18:18 nirmal-VirtualBox gnome-shell[1571]: cr_parser_new_from_buf: assertion 'a_buf && a_len' failed
+Jul  8 11:18:18 nirmal-VirtualBox gnome-shell[1571]: cr_declaration_parse_list_from_buf: assertion 'parser' failed
+Jul  8 11:18:18 nirmal-VirtualBox gnome-shell[1571]: cr_parser_new_from_buf: assertion 'a_buf && a_len' failed
+Jul  8 11:18:18 nirmal-VirtualBox gnome-shell[1571]: cr_declaration_parse_list_from_buf: assertion 'parser' failed
+Jul  8 11:18:18 nirmal-VirtualBox gnome-shell[1571]: g_dbus_connection_emit_signal: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+Jul  8 11:18:18 nirmal-VirtualBox gnome-shell[1571]: cr_parser_new_from_buf: assertion 'a_buf && a_len' failed
+Jul  8 11:18:18 nirmal-VirtualBox gnome-shell[1571]: cr_declaration_parse_list_from_buf: assertion 'parser' failed
+Jul  8 11:45:17 nirmal-VirtualBox gnome-shell[1571]: cr_parser_new_from_buf: assertion 'a_buf && a_len' failed
+Jul  8 11:45:17 nirmal-VirtualBox gnome-shell[1571]: cr_declaration_parse_list_from_buf: assertion 'parser' failed
+Jul  8 11:45:17 nirmal-VirtualBox gnome-shell[1571]: cr_parser_new_from_buf: assertion 'a_buf && a_len' failed
+Jul  8 11:45:17 nirmal-VirtualBox gnome-shell[1571]: cr_declaration_parse_list_from_buf: assertion 'parser' failed
+Jul  8 11:45:17 nirmal-VirtualBox gnome-shell[1571]: cr_parser_new_from_buf: assertion 'a_buf && a_len' failed
+Jul  8 11:45:17 nirmal-VirtualBox gnome-shell[1571]: cr_declaration_parse_list_from_buf: assertion 'parser' failed
+Jul  8 11:45:17 nirmal-VirtualBox org.gnome.Nautilus[7237]: Failed to register: Unable to acquire bus name 'org.gnome.Nautilus'
+Jul  8 11:45:17 nirmal-VirtualBox gnome-shell[1571]: cr_parser_new_from_buf: assertion 'a_buf && a_len' failed
+Jul  8 11:45:17 nirmal-VirtualBox gnome-shell[1571]: cr_declaration_parse_list_from_buf: assertion 'parser' failed
+Jul  8 12:26:47 nirmal-VirtualBox snap-store[1872]: snapd_client_find_section_async: assertion 'section != NULL || query != NULL' failed
+Jul  8 12:27:09 nirmal-VirtualBox snap-store[1872]: snapd_client_find_section_async: assertion 'section != NULL || query != NULL' failed
+Jul  8 12:29:09 nirmal-VirtualBox insomnia.desktop[11650]: 12:29:09.375 › [electron client protocol] FAILED to set default protocol 'insomnia://'
+Jul  8 12:29:09 nirmal-VirtualBox insomnia.desktop[11776]: libva error: vaGetDriverNameByIndex() failed with unknown libva error, driver_name = (null)
+Jul  8 12:29:09 nirmal-VirtualBox insomnia.desktop[11793]: libva error: vaGetDriverNameByIndex() failed with unknown libva error, driver_name = (null)
+Jul  8 12:29:10 nirmal-VirtualBox insomnia.desktop[11806]: libva error: vaGetDriverNameByIndex() failed with unknown libva error, driver_name = (null)
+Jul  8 12:29:10 nirmal-VirtualBox insomnia.desktop[11826]: libva error: vaGetDriverNameByIndex() failed with unknown libva error, driver_name = (null)
+Jul  8 13:08:27 nirmal-VirtualBox systemd[1]: fwupd-refresh.service: Main process exited, code=exited, status=1/FAILURE
+Jul  8 13:08:27 nirmal-VirtualBox systemd[1]: fwupd-refresh.service: Failed with result 'exit-code'.
+Jul  8 13:08:27 nirmal-VirtualBox systemd[1]: Failed to start Refresh fwupd metadata and update motd.
+Jul  8 13:17:11 nirmal-VirtualBox gnome-shell[1571]: cr_parser_new_from_buf: assertion 'a_buf && a_len' failed
+Jul  8 13:17:11 nirmal-VirtualBox gnome-shell[1571]: cr_declaration_parse_list_from_buf: assertion 'parser' failed
+Jul  8 13:17:11 nirmal-VirtualBox gnome-shell[1571]: cr_parser_new_from_buf: assertion 'a_buf && a_len' failed
+Jul  8 13:17:11 nirmal-VirtualBox gnome-shell[1571]: cr_declaration_parse_list_from_buf: assertion 'parser' failed
+Jul  8 13:17:11 nirmal-VirtualBox gnome-shell[1571]: cr_parser_new_from_buf: assertion 'a_buf && a_len' failed
+Jul  8 13:17:11 nirmal-VirtualBox gnome-shell[1571]: cr_declaration_parse_list_from_buf: assertion 'parser' failed
+Jul  8 13:17:11 nirmal-VirtualBox gnome-shell[1571]: g_dbus_connection_emit_signal: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+Jul  8 13:17:11 nirmal-VirtualBox gnome-shell[1571]: cr_parser_new_from_buf: assertion 'a_buf && a_len' failed
+Jul  8 13:17:11 nirmal-VirtualBox gnome-shell[1571]: cr_declaration_parse_list_from_buf: assertion 'parser' failed
+Jul  8 14:37:29 nirmal-VirtualBox gnome-shell[1571]: cr_parser_new_from_buf: assertion 'a_buf && a_len' failed
+Jul  8 14:37:29 nirmal-VirtualBox gnome-shell[1571]: cr_declaration_parse_list_from_buf: assertion 'parser' failed
+Jul  8 14:37:29 nirmal-VirtualBox gnome-shell[1571]: cr_parser_new_from_buf: assertion 'a_buf && a_len' failed
+Jul  8 14:37:29 nirmal-VirtualBox gnome-shell[1571]: cr_declaration_parse_list_from_buf: assertion 'parser' failed
+Jul  8 14:37:29 nirmal-VirtualBox gnome-shell[1571]: cr_parser_new_from_buf: assertion 'a_buf && a_len' failed
+Jul  8 14:37:29 nirmal-VirtualBox gnome-shell[1571]: cr_declaration_parse_list_from_buf: assertion 'parser' failed
+Jul  8 14:37:29 nirmal-VirtualBox gnome-shell[1571]: cr_parser_new_from_buf: assertion 'a_buf && a_len' failed
+Jul  8 14:37:29 nirmal-VirtualBox gnome-shell[1571]: cr_declaration_parse_list_from_buf: assertion 'parser' failed
+Jul  8 14:51:20 nirmal-VirtualBox snap-store[1872]: snapd_client_find_section_async: assertion 'section != NULL || query != NULL' failed
+Jul  8 14:51:39 nirmal-VirtualBox snap-store[1872]: snapd_client_find_section_async: assertion 'section != NULL || query != NULL' failed
+Jul  8 14:52:50 nirmal-VirtualBox mockoon.desktop[13721]: libva error: vaGetDriverNameByIndex() failed with unknown libva error, driver_name = (null)
+Jul  8 14:52:51 nirmal-VirtualBox mockoon.desktop[13970]: libva error: vaGetDriverNameByIndex() failed with unknown libva error, driver_name = (null)
+Jul  8 14:52:51 nirmal-VirtualBox mockoon.desktop[13989]: libva error: vaGetDriverNameByIndex() failed with unknown libva error, driver_name = (null)
+Jul  8 14:52:51 nirmal-VirtualBox mockoon.desktop[13959]: [13959:0708/145251.081408:ERROR:command_buffer_proxy_impl.cc(125)] ContextResult::kTransientFailure: Failed to send GpuControl.CreateCommandBuffer.
+Jul  8 14:58:11 nirmal-VirtualBox mockoon.desktop[14162]: libva error: vaGetDriverNameByIndex() failed with unknown libva error, driver_name = (null)
+Jul  8 14:58:11 nirmal-VirtualBox mockoon.desktop[14296]: libva error: vaGetDriverNameByIndex() failed with unknown libva error, driver_name = (null)
+Jul  8 14:58:11 nirmal-VirtualBox mockoon.desktop[14308]: libva error: vaGetDriverNameByIndex() failed with unknown libva error, driver_name = (null)
+Jul  8 14:58:11 nirmal-VirtualBox mockoon.desktop[14267]: [14267:0708/145811.945338:ERROR:command_buffer_proxy_impl.cc(125)] ContextResult::kTransientFailure: Failed to send GpuControl.CreateCommandBuffer.
+Jul  8 14:58:11 nirmal-VirtualBox mockoon.desktop[14278]: [14278:0708/145811.953307:ERROR:command_buffer_proxy_impl.cc(125)] ContextResult::kTransientFailure: Failed to send GpuControl.CreateCommandBuffer.
+Jul  8 15:06:19 nirmal-VirtualBox gnome-shell[1571]: Failed to store clipboard: Format UTF8_STRING not supported
+Binary file /home/nirmal/user/scripting/prof/syslog matches

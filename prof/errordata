@@ -1,0 +1,39 @@
+Jul  8 09:23:16 nirmal-VirtualBox systemd[1]: Finished Process error reports when automatic reporting is enabled.
+Jul  8 09:23:19 nirmal-VirtualBox snapd[482]: stateengine.go:149: state ensure error: cannot decode new commands catalog: got unexpected HTTP status code 403 via GET to "https://api.snapcraft.io/api/v1/snaps/names?confinement=strict%2Cclassic"
+Jul  8 09:23:19 nirmal-VirtualBox kernel: [   12.774832] [drm:vmw_host_log [vmwgfx]] *ERROR* Failed to send host log message.
+Jul  8 09:23:19 nirmal-VirtualBox kernel: [   12.774839] [drm:vmw_host_log [vmwgfx]] *ERROR* Failed to send host log message.
+Jul  8 09:23:25 nirmal-VirtualBox /usr/lib/gdm3/gdm-x-session[1319]: #011(WW) warning, (EE) error, (NI) not implemented, (??) unknown.
+Jul  8 09:23:27 nirmal-VirtualBox gnome-session-c[1550]: Error creating FIFO: File exists
+Jul  8 09:23:32 nirmal-VirtualBox gnome-shell[1571]: Error looking up permission: GDBus.Error:org.freedesktop.portal.Error.NotFound: No entry for geolocation
+Jul  8 09:23:50 nirmal-VirtualBox pulseaudio[1305]: GetManagedObjects() failed: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+Jul  8 09:24:18 nirmal-VirtualBox snap-store[1872]: not handling error failed for action refresh: E: Failed to fetch http://in.archive.ubuntu.com/ubuntu/dists/focal/InRelease  #012E: Failed to fetch http://in.archive.ubuntu.com/ubuntu/dists/focal-updates/InRelease  #012E: Failed to fetch http://in.archive.ubuntu.com/ubuntu/dists/focal-backports/InRelease  #012E: Failed to fetch http://security.ubuntu.com/ubuntu/dists/focal-security/InRelease  #012E: Failed to fetch http://security.ubuntu.com/ubuntu/dists/xenial-security/InRelease  #012E: Failed to fetch http://ppa.launchpad.net/deadsnakes/ppa/ubuntu/dists/focal/InRelease  #012E: Failed to fetch https://deb.nodesource.com/node_14.x/dists/bionic/InRelease  #012E: Some index files failed to download. They have been ignored, or old ones used instead.
+Jul  8 09:24:21 nirmal-VirtualBox xdg-desktop-por[1987]: Error from gnome-shell: GDBus.Error:org.gtk.Notifications.InvalidApp: The app by ID "snap.snap-store" could not be found
+Jul  8 12:29:09 nirmal-VirtualBox insomnia.desktop[11776]: libva error: vaGetDriverNameByIndex() failed with unknown libva error, driver_name = (null)
+Jul  8 12:29:09 nirmal-VirtualBox insomnia.desktop[11776]: [11776:0708/122909.726276:ERROR:viz_main_impl.cc(188)] Exiting GPU process due to errors during initialization
+Jul  8 12:29:09 nirmal-VirtualBox insomnia.desktop[11793]: libva error: vaGetDriverNameByIndex() failed with unknown libva error, driver_name = (null)
+Jul  8 12:29:09 nirmal-VirtualBox insomnia.desktop[11793]: [11793:0708/122909.853648:ERROR:viz_main_impl.cc(188)] Exiting GPU process due to errors during initialization
+Jul  8 12:29:10 nirmal-VirtualBox insomnia.desktop[11806]: libva error: vaGetDriverNameByIndex() failed with unknown libva error, driver_name = (null)
+Jul  8 12:29:10 nirmal-VirtualBox insomnia.desktop[11806]: [11806:0708/122910.146470:ERROR:viz_main_impl.cc(188)] Exiting GPU process due to errors during initialization
+Jul  8 12:29:10 nirmal-VirtualBox insomnia.desktop[11826]: libva error: vaGetDriverNameByIndex() failed with unknown libva error, driver_name = (null)
+Jul  8 12:29:10 nirmal-VirtualBox insomnia.desktop[11826]: [11826:0708/122910.229633:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+Jul  8 12:29:10 nirmal-VirtualBox insomnia.desktop[11826]: [11826:0708/122910.237993:ERROR:gpu_memory_buffer_support_x11.cc(44)] dri3 extension not supported.
+Jul  8 14:38:28 nirmal-VirtualBox gnome-shell[5528]: [2022-07-08T09:08:28Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+Jul  8 14:38:28 nirmal-VirtualBox gnome-shell[5528]: message repeated 3 times: [ [2022-07-08T09:08:28Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"]
+Jul  8 14:52:50 nirmal-VirtualBox mockoon.desktop[13721]: libva error: vaGetDriverNameByIndex() failed with unknown libva error, driver_name = (null)
+Jul  8 14:52:50 nirmal-VirtualBox mockoon.desktop[13721]: [13721:0708/145250.729599:ERROR:viz_main_impl.cc(188)] Exiting GPU process due to errors during initialization
+Jul  8 14:52:51 nirmal-VirtualBox mockoon.desktop[13970]: libva error: vaGetDriverNameByIndex() failed with unknown libva error, driver_name = (null)
+Jul  8 14:52:51 nirmal-VirtualBox mockoon.desktop[13970]: [13970:0708/145251.029858:ERROR:viz_main_impl.cc(188)] Exiting GPU process due to errors during initialization
+Jul  8 14:52:51 nirmal-VirtualBox mockoon.desktop[13989]: libva error: vaGetDriverNameByIndex() failed with unknown libva error, driver_name = (null)
+Jul  8 14:52:51 nirmal-VirtualBox mockoon.desktop[13989]: [13989:0708/145251.058825:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+Jul  8 14:52:51 nirmal-VirtualBox mockoon.desktop[13989]: [13989:0708/145251.064215:ERROR:gpu_memory_buffer_support_x11.cc(44)] dri3 extension not supported.
+Jul  8 14:52:51 nirmal-VirtualBox mockoon.desktop[13959]: [13959:0708/145251.081408:ERROR:command_buffer_proxy_impl.cc(125)] ContextResult::kTransientFailure: Failed to send GpuControl.CreateCommandBuffer.
+Jul  8 14:58:11 nirmal-VirtualBox mockoon.desktop[14162]: libva error: vaGetDriverNameByIndex() failed with unknown libva error, driver_name = (null)
+Jul  8 14:58:11 nirmal-VirtualBox mockoon.desktop[14162]: [14162:0708/145811.293185:ERROR:viz_main_impl.cc(188)] Exiting GPU process due to errors during initialization
+Jul  8 14:58:11 nirmal-VirtualBox mockoon.desktop[14296]: libva error: vaGetDriverNameByIndex() failed with unknown libva error, driver_name = (null)
+Jul  8 14:58:11 nirmal-VirtualBox mockoon.desktop[14296]: [14296:0708/145811.864731:ERROR:viz_main_impl.cc(188)] Exiting GPU process due to errors during initialization
+Jul  8 14:58:11 nirmal-VirtualBox mockoon.desktop[14308]: libva error: vaGetDriverNameByIndex() failed with unknown libva error, driver_name = (null)
+Jul  8 14:58:11 nirmal-VirtualBox mockoon.desktop[14308]: [14308:0708/145811.929702:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+Jul  8 14:58:11 nirmal-VirtualBox mockoon.desktop[14308]: [14308:0708/145811.935596:ERROR:gpu_memory_buffer_support_x11.cc(44)] dri3 extension not supported.
+Jul  8 14:58:11 nirmal-VirtualBox mockoon.desktop[14267]: [14267:0708/145811.945338:ERROR:command_buffer_proxy_impl.cc(125)] ContextResult::kTransientFailure: Failed to send GpuControl.CreateCommandBuffer.
+Jul  8 14:58:11 nirmal-VirtualBox mockoon.desktop[14278]: [14278:0708/145811.953307:ERROR:command_buffer_proxy_impl.cc(125)] ContextResult::kTransientFailure: Failed to send GpuControl.CreateCommandBuffer.
+Binary file /home/nirmal/user/scripting/prof/syslog matches
