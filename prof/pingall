@@ -1,5 +1,5 @@
 #!/bin/bash
-IPLIST="/home/nirmal/user/scripting/prof/ipaddr.txt"
+IPLIST="/home/nirmal/user/scripting/prof/ipaddr"
 
 
 for ip in $(cat $IPLIST)
