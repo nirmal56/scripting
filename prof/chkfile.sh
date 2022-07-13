@@ -17,7 +17,7 @@ echo
 for file in $FILES
 
 do
-	if [ ! -e "$file" ]
+	if [ ! -e "$file" ]     
 	then
     
 	echo $file = does not exist
