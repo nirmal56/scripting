@@ -1,0 +1,23 @@
+#!/bin/bash
+################################################################################
+#Author: Nirmal Patel
+#Date:  Saturday 16 July 2022 11:28:36 PM IST
+#Description:  create and delete inventory
+#Modified:  Saturday 16 July 2022 11:28:36 PM IST
+################################################################################
+
+#!/bin/bash
+echo
+echo Please select one of the following options:
+echo
+echo 'a = Add a record'
+echo 'd = Delete a record'
+echo
+read choice
+
+case $choice in
+    a) /home/nirmal/user/scripting/prof/inventory.sh;;
+    d) /home/nirmal/user/scripting/prof/delinventory.sh;;
+    *) echo Invalid choice - Bye.
+        
+esac
